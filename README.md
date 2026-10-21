@@ -23,7 +23,6 @@ Windows PC 최적화 도구. 성능 카운터로 상태를 측정하고, 실제 
 [![OpenSSF Baseline](https://www.bestpractices.dev/projects/15412/baseline)](https://www.bestpractices.dev/en/projects/15412/baseline-1)
 
 - 소스: https://github.com/sjw0328/source (GPL-3.0)
-- 사이트: https://omegax.p-e.kr
 - 스택: Python, CustomTkinter, PyInstaller, Inno Setup
 - 특징: 안전 부스트 / 최대 부스트 2단계 모드 / CPU 온도 감시와 자체 스로틀링 / 파괴적 작업은 확인 창과 백업을 먼저 거침
 
