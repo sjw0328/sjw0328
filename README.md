@@ -40,8 +40,13 @@ pip install matchum
 ### [pyi-doctor](https://github.com/sjw0328/pyi-doctor)
 PyInstaller 앱을 포터블 exe와 설치 마법사로 한 번에 빌드하고, 배포 후 자주 생기는 문제를 점검하는 파이썬 라이브러리.
 
+[![PyPI](https://img.shields.io/pypi/v/pyi-doctor?style=flat-square)](https://pypi.org/project/pyi-doctor/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-111111?style=flat-square)](https://github.com/sjw0328/pyi-doctor/blob/main/LICENSE)
 ![Python](https://img.shields.io/badge/python-3.9%2B-111111?style=flat-square)
+
+```bash
+pip install pyi-doctor
+```
 
 ```python
 from pyi_doctor import Project, build_all
@@ -52,6 +57,8 @@ build_all(Project(entry="main.py", name="MyApp"))
 - 격리 환경 실행 테스트 ("내 PC에서만 됨" 점검)
 - 백신 오탐 위험 요인 진단 (PE 분석)
 - 번들 라이선스 목록 · CycloneDX SBOM 생성
+
+[저장소](https://github.com/sjw0328/pyi-doctor) · [PyPI](https://pypi.org/project/pyi-doctor/) · [한국어 문서](https://github.com/sjw0328/pyi-doctor/blob/main/README.ko.md) · [변경 이력](https://github.com/sjw0328/pyi-doctor/blob/main/CHANGELOG.md)
 
 </td>
 </tr>
@@ -80,7 +87,7 @@ Windows PC 최적화 도구. 성능 카운터로 상태를 측정하고, 효과�
 ## 그 외
 
 - **OMEGA 15** — 올인원 PC 유틸리티
-- **Good Source** — 오픈소스·AI 개발 유튜브 채널
+- **[Good Source](https://www.youtube.com/channel/UCVIIujuomR_Mq7V4daqr3Fg/)** — 오픈소스·AI 개발 유튜브 채널
 
 ---
 
