@@ -1,12 +1,13 @@
 <div align="center">
 
-# 서주원 (Juwon Seo) · OMEGA SYSTEMS
+# Juwon Seo (sjw0328) · 서주원
 
 **필요하다고 생각한 것을 직접 만들고 운영하는 학생 개발자**<br>
 기획 · 개발 · 배포 · 운영을 혼자 합니다. 기준은 하나, *simple is best.*
 
-Juwon Seo — indie developer from South Korea. Maintainer of **matchum** (offline Korean spell checker for Python) and **pyi-doctor** (PyInstaller build + antivirus false-positive diagnosis). Python Software Foundation Contributing Member.
+**Juwon Seo (sjw0328)** — Python developer from South Korea (OMEGA SYSTEMS). Author of **[pyi-doctor](https://github.com/sjw0328/pyi-doctor)** (PyInstaller build + antivirus false-positive diagnosis) and **[matchum](https://github.com/sjw0328/matchum)** (offline Korean spell checker for Python). Python Software Foundation Contributing Member.
 
+[![Website](https://img.shields.io/badge/Website-juwonseo.pages.dev-111111?style=flat-square)](https://juwonseo.pages.dev/)
 [![Profile](https://img.shields.io/badge/Profile-pinnn.me-111111?style=flat-square)](https://pinnn.me/@seodes105)
 [![Email](https://img.shields.io/badge/License%20inquiry-seodes105%40gmail.com-111111?style=flat-square)](mailto:seodes105@gmail.com)
 
