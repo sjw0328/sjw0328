@@ -25,6 +25,7 @@
 로컬에서 동작하는 규칙 기반 한국어 맞춤법 검사 파이썬 라이브러리. 외부 서비스 접속 없이 표준 라이브러리만 사용합니다.
 
 [![PyPI](https://img.shields.io/pypi/v/matchum?style=flat-square)](https://pypi.org/project/matchum/)
+[![PyPI Downloads](https://static.pepy.tech/personalized-badge/matchum?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/matchum)
 [![OpenSSF Baseline](https://www.bestpractices.dev/projects/15483/baseline)](https://www.bestpractices.dev/en/projects/15483/baseline-1)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23531936.svg)](https://doi.org/10.5281/zenodo.23531936)
 
@@ -44,6 +45,7 @@ pip install matchum
 PyInstaller 앱을 포터블 exe와 설치 마법사로 한 번에 빌드하고, 배포 후 자주 생기는 문제를 점검하는 파이썬 라이브러리.
 
 [![PyPI](https://img.shields.io/pypi/v/pyi-doctor?style=flat-square)](https://pypi.org/project/pyi-doctor/)
+[![PyPI Downloads](https://static.pepy.tech/personalized-badge/pyi-doctor?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/pyi-doctor)
 [![License: MIT](https://img.shields.io/badge/license-MIT-111111?style=flat-square)](https://github.com/sjw0328/pyi-doctor/blob/main/LICENSE)
 ![Python](https://img.shields.io/badge/python-3.9%2B-111111?style=flat-square)
 
